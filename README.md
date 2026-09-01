@@ -18,4 +18,14 @@ It demonstrates:
 6. Pushing code to GitHub
 7. Basic Python programming
 
+Git Concepts Practiced
+1. Repository initialization
+2. Staging
+3. Commits
+4. Branching
+5. Merging
+6. Remote repositories
+7. Pushing to GitHub
+8. .gitignore
+
 The project also contains a simple calculator.
